@@ -1,0 +1,23 @@
+c:\users\сергей\documents\visual studio 2013\Projects\UserRegistration\DAL\bin\Debug\DAL.dll
+c:\users\сергей\documents\visual studio 2013\Projects\UserRegistration\DAL\bin\Debug\DAL.pdb
+c:\users\сергей\documents\visual studio 2013\Projects\UserRegistration\DAL\obj\Debug\DAL.dll
+c:\users\сергей\documents\visual studio 2013\Projects\UserRegistration\DAL\obj\Debug\DAL.pdb
+C:\Users\Сергей\Documents\Visual Studio 2013\Projects\UserRegistration\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+C:\Users\Сергей\Desktop\ОТПРАВКА ТЕСТОВОГО ЗАДАНИЯ\UserRegistration\DAL\bin\Debug\DAL.dll
+C:\Users\Сергей\Desktop\ОТПРАВКА ТЕСТОВОГО ЗАДАНИЯ\UserRegistration\DAL\bin\Debug\DAL.pdb
+C:\Users\Сергей\Desktop\ОТПРАВКА ТЕСТОВОГО ЗАДАНИЯ\UserRegistration\DAL\obj\Debug\DAL.dll
+C:\Users\Сергей\Desktop\ОТПРАВКА ТЕСТОВОГО ЗАДАНИЯ\UserRegistration\DAL\obj\Debug\DAL.pdb
+C:\Users\Сергей\Desktop\ОТПРАВКА ТЕСТОВОГО ЗАДАНИЯ 14.10.2015\UserRegistration\DAL\bin\Debug\DAL.dll
+C:\Users\Сергей\Desktop\ОТПРАВКА ТЕСТОВОГО ЗАДАНИЯ 14.10.2015\UserRegistration\DAL\bin\Debug\DAL.pdb
+C:\Users\Сергей\Desktop\ОТПРАВКА ТЕСТОВОГО ЗАДАНИЯ 14.10.2015\UserRegistration\DAL\obj\Debug\DAL.dll
+C:\Users\Сергей\Desktop\ОТПРАВКА ТЕСТОВОГО ЗАДАНИЯ 14.10.2015\UserRegistration\DAL\obj\Debug\DAL.pdb
+C:\Users\Сергей\Desktop\ОТПРАВКА ТЕСТОВОГО ЗАДАНИЯ 14.10.2015\ОТПРАВКА ТЕСТОВОГО ЗАДАНИЯ 14.10.2015\UserRegistration\DAL\bin\Debug\DAL.dll
+C:\Users\Сергей\Desktop\ОТПРАВКА ТЕСТОВОГО ЗАДАНИЯ 14.10.2015\ОТПРАВКА ТЕСТОВОГО ЗАДАНИЯ 14.10.2015\UserRegistration\DAL\bin\Debug\DAL.pdb
+C:\Users\Сергей\Desktop\ОТПРАВКА ТЕСТОВОГО ЗАДАНИЯ 14.10.2015\ОТПРАВКА ТЕСТОВОГО ЗАДАНИЯ 14.10.2015\UserRegistration\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+C:\Users\Сергей\Desktop\ОТПРАВКА ТЕСТОВОГО ЗАДАНИЯ 14.10.2015\ОТПРАВКА ТЕСТОВОГО ЗАДАНИЯ 14.10.2015\UserRegistration\DAL\obj\Debug\DAL.dll
+C:\Users\Сергей\Desktop\ОТПРАВКА ТЕСТОВОГО ЗАДАНИЯ 14.10.2015\ОТПРАВКА ТЕСТОВОГО ЗАДАНИЯ 14.10.2015\UserRegistration\DAL\obj\Debug\DAL.pdb
+C:\Users\Сергей\Downloads\РЕШЕНИЕ ТЕСТОВОГО ЗАДАНИЯ 14.10.2015\UserRegistration\DAL\bin\Debug\DAL.dll
+C:\Users\Сергей\Downloads\РЕШЕНИЕ ТЕСТОВОГО ЗАДАНИЯ 14.10.2015\UserRegistration\DAL\bin\Debug\DAL.pdb
+C:\Users\Сергей\Downloads\РЕШЕНИЕ ТЕСТОВОГО ЗАДАНИЯ 14.10.2015\UserRegistration\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+C:\Users\Сергей\Downloads\РЕШЕНИЕ ТЕСТОВОГО ЗАДАНИЯ 14.10.2015\UserRegistration\DAL\obj\Debug\DAL.dll
+C:\Users\Сергей\Downloads\РЕШЕНИЕ ТЕСТОВОГО ЗАДАНИЯ 14.10.2015\UserRegistration\DAL\obj\Debug\DAL.pdb

@@ -1,0 +1,77 @@
+﻿@{
+    ViewBag.Title = "Пользователи";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+@section Scripts
+    {
+    <link href="~/Content/Styles/UserRregistrationCss.css" rel="stylesheet" />
+    <script src="~/Content/Scripts/jquery-2.1.4.js"></script>
+    <script src="~/Content/Scripts/angular.js"></script>
+    <script src="~/Content/MyScripts/Modules/UserRegistrationApp.js"></script>
+    <script src="~/Content/MyScripts/Controllers/UserRegistrationCtrl.js"></script>
+    <script src="~/Content/MyScripts/ArrayHelper.js"></script>
+
+}
+<div ng-app="UserRegistrationApp">
+    <div ng-controller="UserRegistrationCtrl" class="wrapper">
+        <h2>Управление списком пользователей</h2>
+
+        <div class="left">
+
+            <input type="button" name="AddNewPerson" value="добавить" ng-click="create()" />
+            <input type="button" name="Delete" value="удалить" ng-click="delete(currentPerson)">
+            <input type="button" name="Save" value="сохранить" ng-click="saveEdit(currentPerson)" />
+            <br />
+            <br />
+            <select multiple ng-model="opt" ng-options="opt as opt.FullName for opt in persons " ng-change="change(opt)" class="personList"></select>
+        </div>
+
+        <div class="right">
+
+            <table>
+                <tr>
+                    <td>
+                        <label>Имя</label>
+                    </td>
+                    <td>
+                        <input type="text" id="FullName" ng-model="FullName" class="rightColumn" /><span ng-show="FullNameEmpty" class="validationError">*</span>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <label>Логин</label>
+                    </td>
+                    <td>
+                        <input type="text" id="Login" ng-model="Login" class="rightColumn" /><span ng-show="LoginEmpty" class="validationError">*</span>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <label>Пароль</label>
+                    </td>
+                    <td>
+                        <input type="password" id="Password" ng-model="Password" class="rightColumn" /><span ng-show="PasswordEmpty" class="validationError">*</span>
+                    </td>
+                </tr>
+                <tr>
+                    <td class="roleCol">
+                        Роли
+                    </td>
+                    <td>
+                        <table class="roles">
+                            <tr>
+                                <td>Роль</td>
+                                <td>Использование</td>
+                            </tr>
+                            <tr ng-repeat="role in roles">
+                                <td>{{role.Name}}</td>
+                                <td><input type="checkbox" ng-model="role.isActive" ng-change="changeRole(role)" /></td>
+                            </tr>
+                        </table>
+                    </td>
+                </tr>
+            </table>
+        </div>
+    </div>
+</div>

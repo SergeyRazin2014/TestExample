@@ -1,0 +1,180 @@
+c:\users\сергей\documents\visual studio 2013\Projects\UserRegistration\UserRegistration\bin\UserRegistration.dll.config
+c:\users\сергей\documents\visual studio 2013\Projects\UserRegistration\UserRegistration\bin\UserRegistration.dll
+c:\users\сергей\documents\visual studio 2013\Projects\UserRegistration\UserRegistration\bin\UserRegistration.pdb
+c:\users\сергей\documents\visual studio 2013\Projects\UserRegistration\UserRegistration\bin\System.Web.Helpers.dll
+c:\users\сергей\documents\visual studio 2013\Projects\UserRegistration\UserRegistration\bin\System.Web.Mvc.dll
+c:\users\сергей\documents\visual studio 2013\Projects\UserRegistration\UserRegistration\bin\System.Web.Razor.dll
+c:\users\сергей\documents\visual studio 2013\Projects\UserRegistration\UserRegistration\bin\System.Web.Webpages.Deployment.dll
+c:\users\сергей\documents\visual studio 2013\Projects\UserRegistration\UserRegistration\bin\System.Web.Webpages.dll
+c:\users\сергей\documents\visual studio 2013\Projects\UserRegistration\UserRegistration\bin\System.Web.Webpages.Razor.dll
+c:\users\сергей\documents\visual studio 2013\Projects\UserRegistration\UserRegistration\bin\System.Web.Razor.xml
+c:\users\сергей\documents\visual studio 2013\Projects\UserRegistration\UserRegistration\bin\System.Web.Webpages.xml
+c:\users\сергей\documents\visual studio 2013\Projects\UserRegistration\UserRegistration\bin\System.Web.Webpages.Deployment.xml
+c:\users\сергей\documents\visual studio 2013\Projects\UserRegistration\UserRegistration\bin\System.Web.Webpages.Razor.xml
+c:\users\сергей\documents\visual studio 2013\Projects\UserRegistration\UserRegistration\bin\System.Web.Helpers.xml
+c:\users\сергей\documents\visual studio 2013\Projects\UserRegistration\UserRegistration\bin\System.Web.Mvc.xml
+c:\users\сергей\documents\visual studio 2013\Projects\UserRegistration\UserRegistration\obj\Debug\UserRegistration.csprojResolveAssemblyReference.cache
+c:\users\сергей\documents\visual studio 2013\Projects\UserRegistration\UserRegistration\obj\Debug\UserRegistration.dll
+c:\users\сергей\documents\visual studio 2013\Projects\UserRegistration\UserRegistration\obj\Debug\UserRegistration.pdb
+c:\users\сергей\documents\visual studio 2013\Projects\UserRegistration\UserRegistration\bin\DAL.dll
+c:\users\сергей\documents\visual studio 2013\Projects\UserRegistration\UserRegistration\bin\DAL.pdb
+C:\Users\Сергей\Documents\Visual Studio 2013\Projects\UserRegistration\UserRegistration\bin\Newtonsoft.Json.dll
+C:\Users\Сергей\Documents\Visual Studio 2013\Projects\UserRegistration\UserRegistration\bin\System.Net.Http.Formatting.dll
+C:\Users\Сергей\Documents\Visual Studio 2013\Projects\UserRegistration\UserRegistration\bin\System.Web.Http.dll
+C:\Users\Сергей\Documents\Visual Studio 2013\Projects\UserRegistration\UserRegistration\bin\System.Web.Http.WebHost.dll
+C:\Users\Сергей\Documents\Visual Studio 2013\Projects\UserRegistration\UserRegistration\bin\Newtonsoft.Json.xml
+C:\Users\Сергей\Documents\Visual Studio 2013\Projects\UserRegistration\UserRegistration\bin\System.Net.Http.Formatting.xml
+C:\Users\Сергей\Documents\Visual Studio 2013\Projects\UserRegistration\UserRegistration\bin\System.Web.Http.xml
+C:\Users\Сергей\Documents\Visual Studio 2013\Projects\UserRegistration\UserRegistration\bin\System.Web.Http.WebHost.xml
+C:\Users\Сергей\Documents\Visual Studio 2013\Projects\UserRegistration\UserRegistration\bin\Ninject.dll
+C:\Users\Сергей\Documents\Visual Studio 2013\Projects\UserRegistration\UserRegistration\bin\Ninject.Web.Common.dll
+C:\Users\Сергей\Documents\Visual Studio 2013\Projects\UserRegistration\UserRegistration\bin\Ninject.Web.Mvc.dll
+C:\Users\Сергей\Documents\Visual Studio 2013\Projects\UserRegistration\UserRegistration\bin\WebActivatorEx.dll
+C:\Users\Сергей\Documents\Visual Studio 2013\Projects\UserRegistration\UserRegistration\bin\Ninject.xml
+C:\Users\Сергей\Documents\Visual Studio 2013\Projects\UserRegistration\UserRegistration\bin\Ninject.Web.Common.xml
+C:\Users\Сергей\Documents\Visual Studio 2013\Projects\UserRegistration\UserRegistration\bin\Ninject.Web.Mvc.xml
+C:\Users\Сергей\Documents\Visual Studio 2013\Projects\UserRegistration\UserRegistration\bin\Ninject.WebApi.DependencyResolver.dll
+C:\Users\Сергей\Desktop\ОТПРАВКА ТЕСТОВОГО ЗАДАНИЯ\UserRegistration\UserRegistration\bin\UserRegistration.dll.config
+C:\Users\Сергей\Desktop\ОТПРАВКА ТЕСТОВОГО ЗАДАНИЯ\UserRegistration\UserRegistration\bin\UserRegistration.dll
+C:\Users\Сергей\Desktop\ОТПРАВКА ТЕСТОВОГО ЗАДАНИЯ\UserRegistration\UserRegistration\bin\UserRegistration.pdb
+C:\Users\Сергей\Desktop\ОТПРАВКА ТЕСТОВОГО ЗАДАНИЯ\UserRegistration\UserRegistration\bin\DAL.dll
+C:\Users\Сергей\Desktop\ОТПРАВКА ТЕСТОВОГО ЗАДАНИЯ\UserRegistration\UserRegistration\bin\Newtonsoft.Json.dll
+C:\Users\Сергей\Desktop\ОТПРАВКА ТЕСТОВОГО ЗАДАНИЯ\UserRegistration\UserRegistration\bin\Ninject.dll
+C:\Users\Сергей\Desktop\ОТПРАВКА ТЕСТОВОГО ЗАДАНИЯ\UserRegistration\UserRegistration\bin\Ninject.Web.Common.dll
+C:\Users\Сергей\Desktop\ОТПРАВКА ТЕСТОВОГО ЗАДАНИЯ\UserRegistration\UserRegistration\bin\Ninject.Web.Mvc.dll
+C:\Users\Сергей\Desktop\ОТПРАВКА ТЕСТОВОГО ЗАДАНИЯ\UserRegistration\UserRegistration\bin\Ninject.WebApi.DependencyResolver.dll
+C:\Users\Сергей\Desktop\ОТПРАВКА ТЕСТОВОГО ЗАДАНИЯ\UserRegistration\UserRegistration\bin\System.Net.Http.Formatting.dll
+C:\Users\Сергей\Desktop\ОТПРАВКА ТЕСТОВОГО ЗАДАНИЯ\UserRegistration\UserRegistration\bin\System.Web.Helpers.dll
+C:\Users\Сергей\Desktop\ОТПРАВКА ТЕСТОВОГО ЗАДАНИЯ\UserRegistration\UserRegistration\bin\System.Web.Http.dll
+C:\Users\Сергей\Desktop\ОТПРАВКА ТЕСТОВОГО ЗАДАНИЯ\UserRegistration\UserRegistration\bin\System.Web.Http.WebHost.dll
+C:\Users\Сергей\Desktop\ОТПРАВКА ТЕСТОВОГО ЗАДАНИЯ\UserRegistration\UserRegistration\bin\System.Web.Mvc.dll
+C:\Users\Сергей\Desktop\ОТПРАВКА ТЕСТОВОГО ЗАДАНИЯ\UserRegistration\UserRegistration\bin\System.Web.Razor.dll
+C:\Users\Сергей\Desktop\ОТПРАВКА ТЕСТОВОГО ЗАДАНИЯ\UserRegistration\UserRegistration\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Сергей\Desktop\ОТПРАВКА ТЕСТОВОГО ЗАДАНИЯ\UserRegistration\UserRegistration\bin\System.Web.Webpages.dll
+C:\Users\Сергей\Desktop\ОТПРАВКА ТЕСТОВОГО ЗАДАНИЯ\UserRegistration\UserRegistration\bin\System.Web.Webpages.Razor.dll
+C:\Users\Сергей\Desktop\ОТПРАВКА ТЕСТОВОГО ЗАДАНИЯ\UserRegistration\UserRegistration\bin\WebActivatorEx.dll
+C:\Users\Сергей\Desktop\ОТПРАВКА ТЕСТОВОГО ЗАДАНИЯ\UserRegistration\UserRegistration\bin\DAL.pdb
+C:\Users\Сергей\Desktop\ОТПРАВКА ТЕСТОВОГО ЗАДАНИЯ\UserRegistration\UserRegistration\bin\Newtonsoft.Json.xml
+C:\Users\Сергей\Desktop\ОТПРАВКА ТЕСТОВОГО ЗАДАНИЯ\UserRegistration\UserRegistration\bin\Ninject.xml
+C:\Users\Сергей\Desktop\ОТПРАВКА ТЕСТОВОГО ЗАДАНИЯ\UserRegistration\UserRegistration\bin\Ninject.Web.Common.xml
+C:\Users\Сергей\Desktop\ОТПРАВКА ТЕСТОВОГО ЗАДАНИЯ\UserRegistration\UserRegistration\bin\Ninject.Web.Mvc.xml
+C:\Users\Сергей\Desktop\ОТПРАВКА ТЕСТОВОГО ЗАДАНИЯ\UserRegistration\UserRegistration\bin\System.Net.Http.Formatting.xml
+C:\Users\Сергей\Desktop\ОТПРАВКА ТЕСТОВОГО ЗАДАНИЯ\UserRegistration\UserRegistration\bin\System.Web.Http.xml
+C:\Users\Сергей\Desktop\ОТПРАВКА ТЕСТОВОГО ЗАДАНИЯ\UserRegistration\UserRegistration\bin\System.Web.Http.WebHost.xml
+C:\Users\Сергей\Desktop\ОТПРАВКА ТЕСТОВОГО ЗАДАНИЯ\UserRegistration\UserRegistration\bin\System.Web.Razor.xml
+C:\Users\Сергей\Desktop\ОТПРАВКА ТЕСТОВОГО ЗАДАНИЯ\UserRegistration\UserRegistration\bin\System.Web.Webpages.xml
+C:\Users\Сергей\Desktop\ОТПРАВКА ТЕСТОВОГО ЗАДАНИЯ\UserRegistration\UserRegistration\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Сергей\Desktop\ОТПРАВКА ТЕСТОВОГО ЗАДАНИЯ\UserRegistration\UserRegistration\bin\System.Web.Webpages.Razor.xml
+C:\Users\Сергей\Desktop\ОТПРАВКА ТЕСТОВОГО ЗАДАНИЯ\UserRegistration\UserRegistration\bin\System.Web.Helpers.xml
+C:\Users\Сергей\Desktop\ОТПРАВКА ТЕСТОВОГО ЗАДАНИЯ\UserRegistration\UserRegistration\bin\System.Web.Mvc.xml
+C:\Users\Сергей\Desktop\ОТПРАВКА ТЕСТОВОГО ЗАДАНИЯ\UserRegistration\UserRegistration\obj\Debug\UserRegistration.csprojResolveAssemblyReference.cache
+C:\Users\Сергей\Desktop\ОТПРАВКА ТЕСТОВОГО ЗАДАНИЯ\UserRegistration\UserRegistration\obj\Debug\UserRegistration.dll
+C:\Users\Сергей\Desktop\ОТПРАВКА ТЕСТОВОГО ЗАДАНИЯ\UserRegistration\UserRegistration\obj\Debug\UserRegistration.pdb
+C:\Users\Сергей\Desktop\ОТПРАВКА ТЕСТОВОГО ЗАДАНИЯ 14.10.2015\UserRegistration\UserRegistration\bin\UserRegistration.dll.config
+C:\Users\Сергей\Desktop\ОТПРАВКА ТЕСТОВОГО ЗАДАНИЯ 14.10.2015\UserRegistration\UserRegistration\bin\UserRegistration.dll
+C:\Users\Сергей\Desktop\ОТПРАВКА ТЕСТОВОГО ЗАДАНИЯ 14.10.2015\UserRegistration\UserRegistration\bin\UserRegistration.pdb
+C:\Users\Сергей\Desktop\ОТПРАВКА ТЕСТОВОГО ЗАДАНИЯ 14.10.2015\UserRegistration\UserRegistration\bin\DAL.dll
+C:\Users\Сергей\Desktop\ОТПРАВКА ТЕСТОВОГО ЗАДАНИЯ 14.10.2015\UserRegistration\UserRegistration\bin\Newtonsoft.Json.dll
+C:\Users\Сергей\Desktop\ОТПРАВКА ТЕСТОВОГО ЗАДАНИЯ 14.10.2015\UserRegistration\UserRegistration\bin\Ninject.dll
+C:\Users\Сергей\Desktop\ОТПРАВКА ТЕСТОВОГО ЗАДАНИЯ 14.10.2015\UserRegistration\UserRegistration\bin\Ninject.Web.Common.dll
+C:\Users\Сергей\Desktop\ОТПРАВКА ТЕСТОВОГО ЗАДАНИЯ 14.10.2015\UserRegistration\UserRegistration\bin\Ninject.Web.Mvc.dll
+C:\Users\Сергей\Desktop\ОТПРАВКА ТЕСТОВОГО ЗАДАНИЯ 14.10.2015\UserRegistration\UserRegistration\bin\Ninject.WebApi.DependencyResolver.dll
+C:\Users\Сергей\Desktop\ОТПРАВКА ТЕСТОВОГО ЗАДАНИЯ 14.10.2015\UserRegistration\UserRegistration\bin\System.Net.Http.Formatting.dll
+C:\Users\Сергей\Desktop\ОТПРАВКА ТЕСТОВОГО ЗАДАНИЯ 14.10.2015\UserRegistration\UserRegistration\bin\System.Web.Helpers.dll
+C:\Users\Сергей\Desktop\ОТПРАВКА ТЕСТОВОГО ЗАДАНИЯ 14.10.2015\UserRegistration\UserRegistration\bin\System.Web.Http.dll
+C:\Users\Сергей\Desktop\ОТПРАВКА ТЕСТОВОГО ЗАДАНИЯ 14.10.2015\UserRegistration\UserRegistration\bin\System.Web.Http.WebHost.dll
+C:\Users\Сергей\Desktop\ОТПРАВКА ТЕСТОВОГО ЗАДАНИЯ 14.10.2015\UserRegistration\UserRegistration\bin\System.Web.Mvc.dll
+C:\Users\Сергей\Desktop\ОТПРАВКА ТЕСТОВОГО ЗАДАНИЯ 14.10.2015\UserRegistration\UserRegistration\bin\System.Web.Razor.dll
+C:\Users\Сергей\Desktop\ОТПРАВКА ТЕСТОВОГО ЗАДАНИЯ 14.10.2015\UserRegistration\UserRegistration\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Сергей\Desktop\ОТПРАВКА ТЕСТОВОГО ЗАДАНИЯ 14.10.2015\UserRegistration\UserRegistration\bin\System.Web.Webpages.dll
+C:\Users\Сергей\Desktop\ОТПРАВКА ТЕСТОВОГО ЗАДАНИЯ 14.10.2015\UserRegistration\UserRegistration\bin\System.Web.Webpages.Razor.dll
+C:\Users\Сергей\Desktop\ОТПРАВКА ТЕСТОВОГО ЗАДАНИЯ 14.10.2015\UserRegistration\UserRegistration\bin\WebActivatorEx.dll
+C:\Users\Сергей\Desktop\ОТПРАВКА ТЕСТОВОГО ЗАДАНИЯ 14.10.2015\UserRegistration\UserRegistration\bin\DAL.pdb
+C:\Users\Сергей\Desktop\ОТПРАВКА ТЕСТОВОГО ЗАДАНИЯ 14.10.2015\UserRegistration\UserRegistration\bin\Newtonsoft.Json.xml
+C:\Users\Сергей\Desktop\ОТПРАВКА ТЕСТОВОГО ЗАДАНИЯ 14.10.2015\UserRegistration\UserRegistration\bin\Ninject.xml
+C:\Users\Сергей\Desktop\ОТПРАВКА ТЕСТОВОГО ЗАДАНИЯ 14.10.2015\UserRegistration\UserRegistration\bin\Ninject.Web.Common.xml
+C:\Users\Сергей\Desktop\ОТПРАВКА ТЕСТОВОГО ЗАДАНИЯ 14.10.2015\UserRegistration\UserRegistration\bin\Ninject.Web.Mvc.xml
+C:\Users\Сергей\Desktop\ОТПРАВКА ТЕСТОВОГО ЗАДАНИЯ 14.10.2015\UserRegistration\UserRegistration\bin\System.Net.Http.Formatting.xml
+C:\Users\Сергей\Desktop\ОТПРАВКА ТЕСТОВОГО ЗАДАНИЯ 14.10.2015\UserRegistration\UserRegistration\bin\System.Web.Http.xml
+C:\Users\Сергей\Desktop\ОТПРАВКА ТЕСТОВОГО ЗАДАНИЯ 14.10.2015\UserRegistration\UserRegistration\bin\System.Web.Http.WebHost.xml
+C:\Users\Сергей\Desktop\ОТПРАВКА ТЕСТОВОГО ЗАДАНИЯ 14.10.2015\UserRegistration\UserRegistration\bin\System.Web.Razor.xml
+C:\Users\Сергей\Desktop\ОТПРАВКА ТЕСТОВОГО ЗАДАНИЯ 14.10.2015\UserRegistration\UserRegistration\bin\System.Web.Webpages.xml
+C:\Users\Сергей\Desktop\ОТПРАВКА ТЕСТОВОГО ЗАДАНИЯ 14.10.2015\UserRegistration\UserRegistration\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Сергей\Desktop\ОТПРАВКА ТЕСТОВОГО ЗАДАНИЯ 14.10.2015\UserRegistration\UserRegistration\bin\System.Web.Webpages.Razor.xml
+C:\Users\Сергей\Desktop\ОТПРАВКА ТЕСТОВОГО ЗАДАНИЯ 14.10.2015\UserRegistration\UserRegistration\bin\System.Web.Helpers.xml
+C:\Users\Сергей\Desktop\ОТПРАВКА ТЕСТОВОГО ЗАДАНИЯ 14.10.2015\UserRegistration\UserRegistration\bin\System.Web.Mvc.xml
+C:\Users\Сергей\Desktop\ОТПРАВКА ТЕСТОВОГО ЗАДАНИЯ 14.10.2015\UserRegistration\UserRegistration\obj\Debug\UserRegistration.csprojResolveAssemblyReference.cache
+C:\Users\Сергей\Desktop\ОТПРАВКА ТЕСТОВОГО ЗАДАНИЯ 14.10.2015\UserRegistration\UserRegistration\obj\Debug\UserRegistration.dll
+C:\Users\Сергей\Desktop\ОТПРАВКА ТЕСТОВОГО ЗАДАНИЯ 14.10.2015\UserRegistration\UserRegistration\obj\Debug\UserRegistration.pdb
+C:\Users\Сергей\Desktop\ОТПРАВКА ТЕСТОВОГО ЗАДАНИЯ 14.10.2015\ОТПРАВКА ТЕСТОВОГО ЗАДАНИЯ 14.10.2015\UserRegistration\UserRegistration\bin\UserRegistration.dll.config
+C:\Users\Сергей\Desktop\ОТПРАВКА ТЕСТОВОГО ЗАДАНИЯ 14.10.2015\ОТПРАВКА ТЕСТОВОГО ЗАДАНИЯ 14.10.2015\UserRegistration\UserRegistration\bin\UserRegistration.dll
+C:\Users\Сергей\Desktop\ОТПРАВКА ТЕСТОВОГО ЗАДАНИЯ 14.10.2015\ОТПРАВКА ТЕСТОВОГО ЗАДАНИЯ 14.10.2015\UserRegistration\UserRegistration\bin\UserRegistration.pdb
+C:\Users\Сергей\Desktop\ОТПРАВКА ТЕСТОВОГО ЗАДАНИЯ 14.10.2015\ОТПРАВКА ТЕСТОВОГО ЗАДАНИЯ 14.10.2015\UserRegistration\UserRegistration\bin\DAL.dll
+C:\Users\Сергей\Desktop\ОТПРАВКА ТЕСТОВОГО ЗАДАНИЯ 14.10.2015\ОТПРАВКА ТЕСТОВОГО ЗАДАНИЯ 14.10.2015\UserRegistration\UserRegistration\bin\Newtonsoft.Json.dll
+C:\Users\Сергей\Desktop\ОТПРАВКА ТЕСТОВОГО ЗАДАНИЯ 14.10.2015\ОТПРАВКА ТЕСТОВОГО ЗАДАНИЯ 14.10.2015\UserRegistration\UserRegistration\bin\Ninject.dll
+C:\Users\Сергей\Desktop\ОТПРАВКА ТЕСТОВОГО ЗАДАНИЯ 14.10.2015\ОТПРАВКА ТЕСТОВОГО ЗАДАНИЯ 14.10.2015\UserRegistration\UserRegistration\bin\Ninject.Web.Common.dll
+C:\Users\Сергей\Desktop\ОТПРАВКА ТЕСТОВОГО ЗАДАНИЯ 14.10.2015\ОТПРАВКА ТЕСТОВОГО ЗАДАНИЯ 14.10.2015\UserRegistration\UserRegistration\bin\Ninject.Web.Mvc.dll
+C:\Users\Сергей\Desktop\ОТПРАВКА ТЕСТОВОГО ЗАДАНИЯ 14.10.2015\ОТПРАВКА ТЕСТОВОГО ЗАДАНИЯ 14.10.2015\UserRegistration\UserRegistration\bin\Ninject.WebApi.DependencyResolver.dll
+C:\Users\Сергей\Desktop\ОТПРАВКА ТЕСТОВОГО ЗАДАНИЯ 14.10.2015\ОТПРАВКА ТЕСТОВОГО ЗАДАНИЯ 14.10.2015\UserRegistration\UserRegistration\bin\System.Net.Http.Formatting.dll
+C:\Users\Сергей\Desktop\ОТПРАВКА ТЕСТОВОГО ЗАДАНИЯ 14.10.2015\ОТПРАВКА ТЕСТОВОГО ЗАДАНИЯ 14.10.2015\UserRegistration\UserRegistration\bin\System.Web.Helpers.dll
+C:\Users\Сергей\Desktop\ОТПРАВКА ТЕСТОВОГО ЗАДАНИЯ 14.10.2015\ОТПРАВКА ТЕСТОВОГО ЗАДАНИЯ 14.10.2015\UserRegistration\UserRegistration\bin\System.Web.Http.dll
+C:\Users\Сергей\Desktop\ОТПРАВКА ТЕСТОВОГО ЗАДАНИЯ 14.10.2015\ОТПРАВКА ТЕСТОВОГО ЗАДАНИЯ 14.10.2015\UserRegistration\UserRegistration\bin\System.Web.Http.WebHost.dll
+C:\Users\Сергей\Desktop\ОТПРАВКА ТЕСТОВОГО ЗАДАНИЯ 14.10.2015\ОТПРАВКА ТЕСТОВОГО ЗАДАНИЯ 14.10.2015\UserRegistration\UserRegistration\bin\System.Web.Mvc.dll
+C:\Users\Сергей\Desktop\ОТПРАВКА ТЕСТОВОГО ЗАДАНИЯ 14.10.2015\ОТПРАВКА ТЕСТОВОГО ЗАДАНИЯ 14.10.2015\UserRegistration\UserRegistration\bin\System.Web.Razor.dll
+C:\Users\Сергей\Desktop\ОТПРАВКА ТЕСТОВОГО ЗАДАНИЯ 14.10.2015\ОТПРАВКА ТЕСТОВОГО ЗАДАНИЯ 14.10.2015\UserRegistration\UserRegistration\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Сергей\Desktop\ОТПРАВКА ТЕСТОВОГО ЗАДАНИЯ 14.10.2015\ОТПРАВКА ТЕСТОВОГО ЗАДАНИЯ 14.10.2015\UserRegistration\UserRegistration\bin\System.Web.Webpages.dll
+C:\Users\Сергей\Desktop\ОТПРАВКА ТЕСТОВОГО ЗАДАНИЯ 14.10.2015\ОТПРАВКА ТЕСТОВОГО ЗАДАНИЯ 14.10.2015\UserRegistration\UserRegistration\bin\System.Web.Webpages.Razor.dll
+C:\Users\Сергей\Desktop\ОТПРАВКА ТЕСТОВОГО ЗАДАНИЯ 14.10.2015\ОТПРАВКА ТЕСТОВОГО ЗАДАНИЯ 14.10.2015\UserRegistration\UserRegistration\bin\WebActivatorEx.dll
+C:\Users\Сергей\Desktop\ОТПРАВКА ТЕСТОВОГО ЗАДАНИЯ 14.10.2015\ОТПРАВКА ТЕСТОВОГО ЗАДАНИЯ 14.10.2015\UserRegistration\UserRegistration\bin\DAL.pdb
+C:\Users\Сергей\Desktop\ОТПРАВКА ТЕСТОВОГО ЗАДАНИЯ 14.10.2015\ОТПРАВКА ТЕСТОВОГО ЗАДАНИЯ 14.10.2015\UserRegistration\UserRegistration\bin\Newtonsoft.Json.xml
+C:\Users\Сергей\Desktop\ОТПРАВКА ТЕСТОВОГО ЗАДАНИЯ 14.10.2015\ОТПРАВКА ТЕСТОВОГО ЗАДАНИЯ 14.10.2015\UserRegistration\UserRegistration\bin\Ninject.xml
+C:\Users\Сергей\Desktop\ОТПРАВКА ТЕСТОВОГО ЗАДАНИЯ 14.10.2015\ОТПРАВКА ТЕСТОВОГО ЗАДАНИЯ 14.10.2015\UserRegistration\UserRegistration\bin\Ninject.Web.Common.xml
+C:\Users\Сергей\Desktop\ОТПРАВКА ТЕСТОВОГО ЗАДАНИЯ 14.10.2015\ОТПРАВКА ТЕСТОВОГО ЗАДАНИЯ 14.10.2015\UserRegistration\UserRegistration\bin\Ninject.Web.Mvc.xml
+C:\Users\Сергей\Desktop\ОТПРАВКА ТЕСТОВОГО ЗАДАНИЯ 14.10.2015\ОТПРАВКА ТЕСТОВОГО ЗАДАНИЯ 14.10.2015\UserRegistration\UserRegistration\bin\System.Net.Http.Formatting.xml
+C:\Users\Сергей\Desktop\ОТПРАВКА ТЕСТОВОГО ЗАДАНИЯ 14.10.2015\ОТПРАВКА ТЕСТОВОГО ЗАДАНИЯ 14.10.2015\UserRegistration\UserRegistration\bin\System.Web.Http.xml
+C:\Users\Сергей\Desktop\ОТПРАВКА ТЕСТОВОГО ЗАДАНИЯ 14.10.2015\ОТПРАВКА ТЕСТОВОГО ЗАДАНИЯ 14.10.2015\UserRegistration\UserRegistration\bin\System.Web.Http.WebHost.xml
+C:\Users\Сергей\Desktop\ОТПРАВКА ТЕСТОВОГО ЗАДАНИЯ 14.10.2015\ОТПРАВКА ТЕСТОВОГО ЗАДАНИЯ 14.10.2015\UserRegistration\UserRegistration\bin\System.Web.Razor.xml
+C:\Users\Сергей\Desktop\ОТПРАВКА ТЕСТОВОГО ЗАДАНИЯ 14.10.2015\ОТПРАВКА ТЕСТОВОГО ЗАДАНИЯ 14.10.2015\UserRegistration\UserRegistration\bin\System.Web.Webpages.xml
+C:\Users\Сергей\Desktop\ОТПРАВКА ТЕСТОВОГО ЗАДАНИЯ 14.10.2015\ОТПРАВКА ТЕСТОВОГО ЗАДАНИЯ 14.10.2015\UserRegistration\UserRegistration\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Сергей\Desktop\ОТПРАВКА ТЕСТОВОГО ЗАДАНИЯ 14.10.2015\ОТПРАВКА ТЕСТОВОГО ЗАДАНИЯ 14.10.2015\UserRegistration\UserRegistration\bin\System.Web.Webpages.Razor.xml
+C:\Users\Сергей\Desktop\ОТПРАВКА ТЕСТОВОГО ЗАДАНИЯ 14.10.2015\ОТПРАВКА ТЕСТОВОГО ЗАДАНИЯ 14.10.2015\UserRegistration\UserRegistration\bin\System.Web.Helpers.xml
+C:\Users\Сергей\Desktop\ОТПРАВКА ТЕСТОВОГО ЗАДАНИЯ 14.10.2015\ОТПРАВКА ТЕСТОВОГО ЗАДАНИЯ 14.10.2015\UserRegistration\UserRegistration\bin\System.Web.Mvc.xml
+C:\Users\Сергей\Desktop\ОТПРАВКА ТЕСТОВОГО ЗАДАНИЯ 14.10.2015\ОТПРАВКА ТЕСТОВОГО ЗАДАНИЯ 14.10.2015\UserRegistration\UserRegistration\obj\Debug\UserRegistration.csprojResolveAssemblyReference.cache
+C:\Users\Сергей\Desktop\ОТПРАВКА ТЕСТОВОГО ЗАДАНИЯ 14.10.2015\ОТПРАВКА ТЕСТОВОГО ЗАДАНИЯ 14.10.2015\UserRegistration\UserRegistration\obj\Debug\UserRegistration.dll
+C:\Users\Сергей\Desktop\ОТПРАВКА ТЕСТОВОГО ЗАДАНИЯ 14.10.2015\ОТПРАВКА ТЕСТОВОГО ЗАДАНИЯ 14.10.2015\UserRegistration\UserRegistration\obj\Debug\UserRegistration.pdb
+C:\Users\Сергей\Downloads\РЕШЕНИЕ ТЕСТОВОГО ЗАДАНИЯ 14.10.2015\UserRegistration\UserRegistration\bin\UserRegistration.dll.config
+C:\Users\Сергей\Downloads\РЕШЕНИЕ ТЕСТОВОГО ЗАДАНИЯ 14.10.2015\UserRegistration\UserRegistration\bin\UserRegistration.dll
+C:\Users\Сергей\Downloads\РЕШЕНИЕ ТЕСТОВОГО ЗАДАНИЯ 14.10.2015\UserRegistration\UserRegistration\bin\UserRegistration.pdb
+C:\Users\Сергей\Downloads\РЕШЕНИЕ ТЕСТОВОГО ЗАДАНИЯ 14.10.2015\UserRegistration\UserRegistration\bin\DAL.dll
+C:\Users\Сергей\Downloads\РЕШЕНИЕ ТЕСТОВОГО ЗАДАНИЯ 14.10.2015\UserRegistration\UserRegistration\bin\Newtonsoft.Json.dll
+C:\Users\Сергей\Downloads\РЕШЕНИЕ ТЕСТОВОГО ЗАДАНИЯ 14.10.2015\UserRegistration\UserRegistration\bin\Ninject.dll
+C:\Users\Сергей\Downloads\РЕШЕНИЕ ТЕСТОВОГО ЗАДАНИЯ 14.10.2015\UserRegistration\UserRegistration\bin\Ninject.Web.Common.dll
+C:\Users\Сергей\Downloads\РЕШЕНИЕ ТЕСТОВОГО ЗАДАНИЯ 14.10.2015\UserRegistration\UserRegistration\bin\Ninject.Web.Mvc.dll
+C:\Users\Сергей\Downloads\РЕШЕНИЕ ТЕСТОВОГО ЗАДАНИЯ 14.10.2015\UserRegistration\UserRegistration\bin\Ninject.WebApi.DependencyResolver.dll
+C:\Users\Сергей\Downloads\РЕШЕНИЕ ТЕСТОВОГО ЗАДАНИЯ 14.10.2015\UserRegistration\UserRegistration\bin\System.Net.Http.Formatting.dll
+C:\Users\Сергей\Downloads\РЕШЕНИЕ ТЕСТОВОГО ЗАДАНИЯ 14.10.2015\UserRegistration\UserRegistration\bin\System.Web.Helpers.dll
+C:\Users\Сергей\Downloads\РЕШЕНИЕ ТЕСТОВОГО ЗАДАНИЯ 14.10.2015\UserRegistration\UserRegistration\bin\System.Web.Http.dll
+C:\Users\Сергей\Downloads\РЕШЕНИЕ ТЕСТОВОГО ЗАДАНИЯ 14.10.2015\UserRegistration\UserRegistration\bin\System.Web.Http.WebHost.dll
+C:\Users\Сергей\Downloads\РЕШЕНИЕ ТЕСТОВОГО ЗАДАНИЯ 14.10.2015\UserRegistration\UserRegistration\bin\System.Web.Mvc.dll
+C:\Users\Сергей\Downloads\РЕШЕНИЕ ТЕСТОВОГО ЗАДАНИЯ 14.10.2015\UserRegistration\UserRegistration\bin\System.Web.Razor.dll
+C:\Users\Сергей\Downloads\РЕШЕНИЕ ТЕСТОВОГО ЗАДАНИЯ 14.10.2015\UserRegistration\UserRegistration\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Сергей\Downloads\РЕШЕНИЕ ТЕСТОВОГО ЗАДАНИЯ 14.10.2015\UserRegistration\UserRegistration\bin\System.Web.Webpages.dll
+C:\Users\Сергей\Downloads\РЕШЕНИЕ ТЕСТОВОГО ЗАДАНИЯ 14.10.2015\UserRegistration\UserRegistration\bin\System.Web.Webpages.Razor.dll
+C:\Users\Сергей\Downloads\РЕШЕНИЕ ТЕСТОВОГО ЗАДАНИЯ 14.10.2015\UserRegistration\UserRegistration\bin\WebActivatorEx.dll
+C:\Users\Сергей\Downloads\РЕШЕНИЕ ТЕСТОВОГО ЗАДАНИЯ 14.10.2015\UserRegistration\UserRegistration\bin\DAL.pdb
+C:\Users\Сергей\Downloads\РЕШЕНИЕ ТЕСТОВОГО ЗАДАНИЯ 14.10.2015\UserRegistration\UserRegistration\bin\Newtonsoft.Json.xml
+C:\Users\Сергей\Downloads\РЕШЕНИЕ ТЕСТОВОГО ЗАДАНИЯ 14.10.2015\UserRegistration\UserRegistration\bin\Ninject.xml
+C:\Users\Сергей\Downloads\РЕШЕНИЕ ТЕСТОВОГО ЗАДАНИЯ 14.10.2015\UserRegistration\UserRegistration\bin\Ninject.Web.Common.xml
+C:\Users\Сергей\Downloads\РЕШЕНИЕ ТЕСТОВОГО ЗАДАНИЯ 14.10.2015\UserRegistration\UserRegistration\bin\Ninject.Web.Mvc.xml
+C:\Users\Сергей\Downloads\РЕШЕНИЕ ТЕСТОВОГО ЗАДАНИЯ 14.10.2015\UserRegistration\UserRegistration\bin\System.Net.Http.Formatting.xml
+C:\Users\Сергей\Downloads\РЕШЕНИЕ ТЕСТОВОГО ЗАДАНИЯ 14.10.2015\UserRegistration\UserRegistration\bin\System.Web.Http.xml
+C:\Users\Сергей\Downloads\РЕШЕНИЕ ТЕСТОВОГО ЗАДАНИЯ 14.10.2015\UserRegistration\UserRegistration\bin\System.Web.Http.WebHost.xml
+C:\Users\Сергей\Downloads\РЕШЕНИЕ ТЕСТОВОГО ЗАДАНИЯ 14.10.2015\UserRegistration\UserRegistration\bin\System.Web.Razor.xml
+C:\Users\Сергей\Downloads\РЕШЕНИЕ ТЕСТОВОГО ЗАДАНИЯ 14.10.2015\UserRegistration\UserRegistration\bin\System.Web.Webpages.xml
+C:\Users\Сергей\Downloads\РЕШЕНИЕ ТЕСТОВОГО ЗАДАНИЯ 14.10.2015\UserRegistration\UserRegistration\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Сергей\Downloads\РЕШЕНИЕ ТЕСТОВОГО ЗАДАНИЯ 14.10.2015\UserRegistration\UserRegistration\bin\System.Web.Webpages.Razor.xml
+C:\Users\Сергей\Downloads\РЕШЕНИЕ ТЕСТОВОГО ЗАДАНИЯ 14.10.2015\UserRegistration\UserRegistration\bin\System.Web.Helpers.xml
+C:\Users\Сергей\Downloads\РЕШЕНИЕ ТЕСТОВОГО ЗАДАНИЯ 14.10.2015\UserRegistration\UserRegistration\bin\System.Web.Mvc.xml
+C:\Users\Сергей\Downloads\РЕШЕНИЕ ТЕСТОВОГО ЗАДАНИЯ 14.10.2015\UserRegistration\UserRegistration\obj\Debug\UserRegistration.csprojResolveAssemblyReference.cache
+C:\Users\Сергей\Downloads\РЕШЕНИЕ ТЕСТОВОГО ЗАДАНИЯ 14.10.2015\UserRegistration\UserRegistration\obj\Debug\UserRegistration.dll
+C:\Users\Сергей\Downloads\РЕШЕНИЕ ТЕСТОВОГО ЗАДАНИЯ 14.10.2015\UserRegistration\UserRegistration\obj\Debug\UserRegistration.pdb

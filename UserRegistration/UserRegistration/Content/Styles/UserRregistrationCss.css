@@ -1,0 +1,33 @@
+﻿.left {
+    float: left;
+}
+
+.right {
+    float: right;
+}
+
+.wrapper {
+    width: 700px;
+}
+
+.personList {
+    width: 225px;
+    height: 300px;
+}
+
+.rightColumn {
+    width: 265px;
+}
+
+.roleCol {
+    padding-top: 3px;
+    vertical-align: top;
+}
+
+.roles {
+    border: 1px solid black;
+}
+
+.validationError {
+    color: red;
+}
